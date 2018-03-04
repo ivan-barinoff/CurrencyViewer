@@ -12,3 +12,6 @@ The application could be run in Docker
 1. gradlew assembleServerAndClient
 2. docker build -t currency-viewer .
 3. docker run currency-viewer -p 8080:8080
+
+![](https://github.com/t0xx/CurrencyViewer/blob/master/pic_1.jpg)
+![](https://github.com/t0xx/CurrencyViewer/blob/master/pic_2.jpg)
