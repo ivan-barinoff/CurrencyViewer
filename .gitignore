@@ -1,0 +1,8 @@
+/*.iml
+/.idea
+/build
+/client/.gradle
+/client/build
+/client/node_modules
+/server/build
+/server/out
